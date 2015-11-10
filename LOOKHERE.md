@@ -1,3 +1,5 @@
+[Martin blog in here](http://www.inhere.top)
+
 ###前言
 这是一个小白学习[“Modern WEB Developer ”](http://qd.haoduoshipin.com/)课程“前端开发技术”部分的一个感悟，也是作为一名执着的程序员的一次“填坑”复习。
 
